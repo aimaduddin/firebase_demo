@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "528454847824",
+    "firebase_url": "https://fir-demo-a564a.firebaseio.com",
+    "project_id": "fir-demo-a564a",
+    "storage_bucket": "fir-demo-a564a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528454847824:android:3f820295bbba88cee2f055",
+        "android_client_info": {
+          "package_name": "com.dudedean.firebase_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528454847824-3vk6fu98a0fefnkjokpr6in74vokla5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWwVxDH5yTbVT9xWCXivmJsrCchpRc9Dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528454847824-3vk6fu98a0fefnkjokpr6in74vokla5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
